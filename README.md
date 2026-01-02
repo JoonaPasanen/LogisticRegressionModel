@@ -1,4 +1,4 @@
-A simple logistic regression model that uses age differentials, ATP-ranking differentials and surface specific elos from the last 20-years of ATP matches to predict the probabilities that each of the players of a match is the winner. Overall the model performs comparably to publicly found models of similar complexity.
+A simple logistic regression model that uses age differentials, ATP-ranking differentials and surface specific elos from the last 20-years of ATP matches to predict the probabilities that each of the players of a match is the winner.
 
 Metrics from the model:
 
